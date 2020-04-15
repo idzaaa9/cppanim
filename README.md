@@ -24,3 +24,4 @@ Possible build targets are:
 
 Code is written with javadoc documentation. Doxygen generated docs
 are in `docs/`
+ide gas
